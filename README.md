@@ -1,3 +1,3 @@
 
 ### Click ⇲
-###    [https//yasinenis.github.io](https://github.com/yasinenis/yasinenis.github.io)
+###    [go to site](https://yasinenis.github.io)
